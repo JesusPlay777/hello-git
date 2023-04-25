@@ -1,3 +1,3 @@
-print('Hello git')
-print('Que tal curso?')
+print('Hello git 2')
+
 
